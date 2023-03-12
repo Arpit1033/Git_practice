@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int a=10,b=30;
-    cout<<b-a;
+    int a=10,c=30;
+    cout<<c-a;
     return 0;
 }
